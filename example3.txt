@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+This is sneha belongs to dev2
+=======
 hi i am sneha belong to dev1
 
+>>>>>>> origin/master
